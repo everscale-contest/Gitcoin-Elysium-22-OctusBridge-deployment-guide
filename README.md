@@ -10,9 +10,11 @@ Requirements: nodejs(16 is recommended), python,
 	3. Ansible.md
 
 Sorry, this guide and Ansible playbook is not completed. I am over today.
+You can find proof of work in screenshots folder. I've done with frontend, relay and partical Everscale and Ethereum contracts deployment.
+I deployed even DAO, staking and token, but stuck with Ethereum and events contracts deploying and configuring.
 I can create tonos-cli ansible collection and complete all in one deployment solution later, but not this night.
 
-Ansible playbook repo avalible at [Github](https://github.com/AntonIXO/octusbridge-ansible)
+Ansible playbook repo available at [Github](https://github.com/AntonIXO/octusbridge-ansible)
 
 My links
 ------------------
